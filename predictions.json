@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08",
+  "generated": "2026-09-09",
   "target_mode": "quantile",
   "scaler_mode": "robust",
   "active_models": [
@@ -31,8 +31,8 @@
         },
         "backtest": null,
         "charts": {
-          "ensemble": "top-2026-09-08/56127/h1w_ensemble.png",
-          "individual": "top-2026-09-08/56127/h1w_individual.png"
+          "ensemble": "top-2026-09-09/56127/h1w_ensemble.png",
+          "individual": "top-2026-09-09/56127/h1w_individual.png"
         }
       }
     ]
@@ -412,19 +412,19 @@
         "signal": "BUY"
       },
       {
-        "fund_id": "94867",
-        "ppm_code": "972497",
-        "name": "Spiltan Räntefond Sverige",
-        "tags": "Räntefond, SEK, Obligationer, Företag",
-        "avanza_url": "https://www.avanza.se/fonder/om-fonden.html/94867",
-        "hitrate_q50": 93.02,
-        "coverage_pct": 99.42,
-        "mae_q50": 0.1706,
-        "forecast_q50": 0.6698,
-        "forecast_q10": -0.9116,
-        "forecast_q90": 0.6243,
-        "last_actual": 0.0066,
-        "momentum_4w": 0.0443,
+        "fund_id": "1509086",
+        "ppm_code": "183343",
+        "name": "DNB Teknologi S",
+        "tags": "Aktiefond, Branschfond, Ny teknik",
+        "avanza_url": "https://www.avanza.se/fonder/om-fonden.html/1509086",
+        "hitrate_q50": 78.57,
+        "coverage_pct": 64.29,
+        "mae_q50": 0.7753,
+        "forecast_q50": 1.3818,
+        "forecast_q10": 0.5618,
+        "forecast_q90": 2.5165,
+        "last_actual": -1.211,
+        "momentum_4w": 0.0357,
         "tritch_score": -1.0,
         "tritch_phase": 0,
         "signal": "BUY"
